@@ -19,5 +19,3 @@
 - TypeScript
 - HTML/CSS
 - SQL
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnuwood&show_icons=true&theme=dark)
